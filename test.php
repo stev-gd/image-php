@@ -1,5 +1,5 @@
 <?php
-
+//imclude image
 include 'Image.php';
 
 $image = new Image();
